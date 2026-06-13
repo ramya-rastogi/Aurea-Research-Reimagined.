@@ -12,6 +12,11 @@
 
 </div>
 
+<br/>
+🚀 Try it live →https://aurea-research-reimagined.streamlit.app/
+
+<br/>
+</div>
 ---
 
 ## What is Aurea?
